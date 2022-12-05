@@ -15,3 +15,6 @@ verification system for the video gaming club discord
 - [ ] guest support (prompt guests for a form of contact (possibly through another button on the welcome message))
 - [ ] lookup a user and their information using a command
 - [ ] multi server support
+
+### Credits
+Using [discord.py](https://discordpy.readthedocs.io/en/stable/) for code
